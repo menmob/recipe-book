@@ -1,2 +1,2 @@
-# mealprep-recipe-book
-all my mealprep recipes :)
+# recipe-book
+all my recipes :)
